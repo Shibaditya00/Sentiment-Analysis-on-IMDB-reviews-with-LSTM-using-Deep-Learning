@@ -1,0 +1,17 @@
+Description:
+In this project, I developed a deep learning model to perform sentiment analysis on IMDB movie reviews. 
+The objective was to classify reviews as positive or negative based on their textual content. 
+Key highlights of the project include:
+
+📌 Data Preprocessing: Cleaned and tokenized large volumes of textual data to prepare it for model training.
+
+📌 Model Development: Built and trained a Long Short-Term Memory (LSTM) neural network using TensorFlow/Keras to capture the sequential nature of text data.
+
+📌 Embedding Layer: Integrated word embeddings to transform textual input into dense vector representations for improved model learning.
+
+📌 Model Evaluation: Achieved high accuracy and F1-score by fine-tuning hyperparameters and implementing techniques like dropout to prevent overfitting.
+
+📌 Result Interpretation: Analyzed model performance through confusion matrices and classification reports to ensure robust sentiment prediction.
+
+This project enhanced my skills in Natural Language Processing (NLP), deep learning, and model optimization, and strengthened my ability to work on real-world text classification problems.
+
